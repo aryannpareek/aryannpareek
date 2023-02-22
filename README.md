@@ -1,7 +1,6 @@
 - Hi, I’m @aryannpareek
 - I’m interested in software engineering, finance, and entrepreneurship
-- I’m currently learning swift and iOS app development
-- I’m looking to collaborate on app and web development projects
+- I’m currently learning Solidity smart contract development
 - 📫 How to reach me: apareek369@gmail.com
 
 <!---
