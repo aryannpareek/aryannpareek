@@ -1,6 +1,6 @@
 - Technology, finance, aviation, and photography enthusiast
 - Software Development Engineer @ Amazon Web Services, Computer Science @ UC San Diego
-- Currently learning Solidity smart contract development and building new things :)
+- Currently building https://www.shop-woven.com
 - Learn more and connect @ https://www.aryanpareek.com 
 
 <!---
